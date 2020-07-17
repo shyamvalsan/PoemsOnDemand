@@ -1,0 +1,6 @@
+sudo apt install ruby
+sudo apt install ruby-dev
+sudo apt install libpng-dev
+sudo apt install --reinstall zlibc zlib1g zlib1g-dev
+sudo gem install bundler --pre
+sudo gem install pry
